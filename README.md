@@ -13,7 +13,7 @@ List the libraries and tools required to run this project, for example:
 - Matplotlib
 - Seaborn
 - scikit-learn
--Pandas
+- Pandas
 
 ## Implementation Details
 
